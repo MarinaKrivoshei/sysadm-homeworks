@@ -9,6 +9,7 @@ Username: rviews
 show ip route x.x.x.x/32
 
 show bgp x.x.x.x/32
+
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 
@@ -29,7 +30,7 @@ show bgp x.x.x.x/32
 * 68 bootpc Клиенты BOOTP; также используется клиентами DHCP 
 * 111 sunrpc Протокол удалённого вызова процедур (Remote Procedure Call, RPC) для удалённого запуска команд, используется сетевой файловой системой (Network Filesystem, NFS)
 
-6. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали.
+5. Используя diagrams.net, создайте L3 диаграмму вашей домашней сети или любой другой сети, с которой вы работали.
 
 ![img_5.png](img_5.png)
 
